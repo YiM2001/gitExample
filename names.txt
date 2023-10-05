@@ -1,1 +1,2 @@
-boss,yma329,Yi,Ma
+role,NetID,LastName,FirstName
+boss,yma329,Ma,Yi
